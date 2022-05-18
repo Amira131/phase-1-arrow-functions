@@ -1,9 +1,9 @@
 
 const divide = function() {
-
+       
 
 }
-    
+divide(x/Y) 
 
 const square = x => x ** x;
 
