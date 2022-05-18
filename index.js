@@ -1,9 +1,10 @@
 
-const divide = function() {
-       
-
+function divide(x,y){
+   return x/y
 }
-divide(x/Y) 
+divide(2000, 100)
+
+//const divide2 = (x,y) => x/y
 
 const square = x => x ** x;
 
